@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bonjour je m'appelle 
+=======
+Bonjour je m'appelle 
+>>>>>>> 9b515151fb775f52b7e45006f672aadf8a6e764a
